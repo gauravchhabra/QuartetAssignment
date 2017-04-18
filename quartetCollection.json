@@ -1,0 +1,205 @@
+[{
+  "name_2" : "Heights Hill Clinic",
+  "name_1" : "South Beach Psychiatric Center",
+  "city" : "BROOKLYN",
+  "latitude" : "40.6879588238",
+  "longitude" : "-73.9802690581",
+  "zip" : "11217",
+  "website" : "https://www.omh.ny.gov/omhweb/facilities/sbpc/employment.htm",
+  "street_1" : "25 Flatbush Avenue",
+  "phone" : "718-875-1420"
+}
+, {
+  "name_2" : "Mapleton Clinic",
+  "name_1" : "South Beach Psychiatric Center",
+  "city" : "BROOKLYN",
+  "latitude" : "40.6268537925",
+  "longitude" : "-73.9764072308",
+  "zip" : "11230",
+  "website" : "https://www.omh.ny.gov/omhweb/facilities/sbpc/employment.htm",
+  "street_1" : "1083 Mcdonald Avenue",
+  "phone" : "718-421-7444"
+}
+, {
+  "name_2" : "The Other Place",
+  "name_1" : "Goddard-Riverside Community Center",
+  "city" : "NEW YORK",
+  "latitude" : "40.7891900573999",
+  "longitude" : "-73.9765158242999",
+  "zip" : "10024",
+  "website" : "http://www.goddard.org/",
+  "street_1" : "264 West 87th Street",
+  "phone" : "212-799-7171"
+}
+, {
+  "name_2" : "Loss and Bereavement",
+  "name_1" : "Jewish Board of Family and Children's Services, Inc.Â ",
+  "city" : "NEW YORK",
+  "latitude" : "40.7603739694",
+  "longitude" : "-73.9815326674",
+  "zip" : "10020",
+  "website" : "https://www.jbfcs.org/",
+  "street_1" : "135 West 50th Street",
+  "phone" : "212-582-9100"
+}
+, {
+  "name_2" : "CoD Peer Advocacy Program",
+  "name_1" : "Jewish Board of Family and Children's Services, Inc.Â ",
+  "city" : "BROOKLYN",
+  "latitude" : "40.6940151607999",
+  "longitude" : "-73.9914715066",
+  "zip" : "11201",
+  "website" : "https://www.jbfcs.org/",
+  "street_1" : "195 Montague Street",
+  "phone" : "718-488-0100",
+  "street_2" : "8th Floor"
+}
+, {
+  "name_2" : "Health Home Care Coordination for People with Mental Illness- Bronx (Adult)",
+  "name_1" : "Jewish Board of Family and Children's Services, Inc.Â ",
+  "city" : "BRONX",
+  "latitude" : "40.841468994",
+  "longitude" : "-73.8433024609",
+  "zip" : "10461",
+  "website" : "https://www.jbfcs.org/",
+  "street_1" : "55 Westchester Square",
+  "phone" : "718-931-4045"
+}
+, {
+  "name_2" : "Bronx Home Based Crisis Intervention",
+  "name_1" : "Jewish Board of Family and Children's Services, Inc.Â ",
+  "city" : "BRONX",
+  "latitude" : "40.8894484241",
+  "longitude" : "-73.9092345339",
+  "zip" : "10463",
+  "website" : "https://www.jbfcs.org/",
+  "street_1" : "521 West 239th Street",
+  "phone" : "718-601-2280"
+}
+, {
+  "name_2" : "JBFCS- Bay Ridge Counseling center",
+  "name_1" : "Jewish Board of Family & Children's Services",
+  "city" : "BROOKLYN",
+  "latitude" : "40.6182253651999",
+  "longitude" : "-74.0302102578999",
+  "zip" : "11209",
+  "website" : "https://www.jbfcs.org/",
+  "street_1" : "9201 4th Avenue",
+  "phone" : "718-238-6444"
+}
+, {
+  "name_2" : "JBFCS Brooklyn PROS Possibilities",
+  "name_1" : "Jewish Board of Family & Children's Services",
+  "city" : "BROOKLYN",
+  "latitude" : "40.6940151607999",
+  "longitude" : "-73.9914715066",
+  "zip" : "11201",
+  "website" : "https://www.jbfcs.org/",
+  "street_1" : "195 Montague Street",
+  "phone" : "718-488-0100"
+}
+, {
+  "name_2" : "JBFCS Ittleson Center For Children Research",
+  "name_1" : "Jewish Board of Family & Children's Services",
+  "city" : "BRONX",
+  "latitude" : "40.8990161242",
+  "longitude" : "-73.9054812294999",
+  "zip" : "10471",
+  "website" : "https://www.jbfcs.org/",
+  "street_1" : "5050 Iselin Avenue",
+  "phone" : "718-549-6700"
+}
+, {
+  "name_2" : "JBFCS Madeleine Borg JW Beatman Counseling Center",
+  "name_1" : "Jewish Board of Family & Children's Services",
+  "city" : "BRONX",
+  "latitude" : "40.8894484241",
+  "longitude" : "-73.9092345339",
+  "zip" : "10463",
+  "website" : "https://www.jbfcs.org/",
+  "street_1" : "521 West 239th Street",
+  "phone" : "718-601-2280"
+}
+, {
+  "name_2" : "JCCA Brooklyn Child & Adolescfent Guidance Services",
+  "name_1" : "Jewish Child Care Association of New York",
+  "city" : "NEW YORK",
+  "latitude" : "40.7398994244",
+  "longitude" : "-73.9739205628",
+  "zip" : "10016",
+  "website" : "http://www.jccany.org",
+  "street_1" : "858 E. 29th Street",
+  "phone" : "718-859-4500"
+}
+, {
+  "name_2" : "JBG Mental Health and Mental Retardation Services, Inc. CTP",
+  "name_1" : "JGB Mental Health and Mental Retardation Svcs",
+  "city" : "BROOKLYN",
+  "latitude" : "40.609688269",
+  "longitude" : "-73.9584702583999",
+  "zip" : "11229",
+  "street_1" : "1630 East 15th Street",
+  "phone" : "212-769-6259"
+}
+, {
+  "name_2" : "Sunset Park Mental Health Center",
+  "name_1" : "Lutheran Medical Center",
+  "city" : "NEW YORK",
+  "latitude" : "40.7645500165",
+  "longitude" : "-73.9934407256999",
+  "zip" : "10019",
+  "street_1" : "514  West 49th Street",
+  "phone" : "718-431-2600"
+}
+, {
+  "name_2" : "Sunset Park Mental Health Center",
+  "name_1" : "Lutheran Medical Center",
+  "city" : "BROOKLYN",
+  "latitude" : "40.6519762909999",
+  "longitude" : "-74.0068617417999",
+  "zip" : "11232",
+  "street_1" : "4004 Fourth Avenue",
+  "phone" : "718-431-2600"
+}
+, {
+  "name_2" : "Ujima House Cr",
+  "name_1" : "Palladia, Inc.",
+  "city" : "NEW YORK",
+  "latitude" : "40.7879151034999",
+  "longitude" : "-73.9473521054",
+  "zip" : "10029",
+  "website" : "http://www.palladiainc.org/",
+  "street_1" : "1806-08 3rd Avenue",
+  "phone" : "718-294-4184"
+}
+, {
+  "name_2" : "Esperanza Transitional Shelter Cr",
+  "name_1" : "Palladia, Inc.",
+  "city" : "NEW YORK",
+  "latitude" : "40.7925772995",
+  "longitude" : "-73.9449901300999",
+  "zip" : "10029",
+  "website" : "http://www.palladiainc.org/",
+  "street_1" : "170 E. 107th Street",
+  "phone" : "212-722-7501"
+}
+, {
+  "name_2" : "The Pac Program Op",
+  "name_1" : "Qsa Services, Inc.D/B/A  Pac Of Queens",
+  "city" : "QUEENS",
+  "latitude" : "40.7487469036",
+  "longitude" : "-73.8701737324",
+  "zip" : "11373",
+  "street_1" : "40-11 Warren Street",
+  "phone" : "718328-2605"
+}
+, {
+  "name_2" : "Reborn For New Life, Llc Op",
+  "name_1" : "Reborn For New Life, Llc",
+  "city" : "BROOKLYN",
+  "latitude" : "40.6746060119999",
+  "longitude" : "-73.8950741556",
+  "zip" : "11207",
+  "street_1" : "400 Liberty Avenue",
+  "phone" : "646-251-1400"
+}]
