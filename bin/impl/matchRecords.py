@@ -22,5 +22,5 @@ def matchActiveClinics(quartetDb):
                 count += 1
                 matchesCollection.insert({'matchPair' : matchPairIds , 'confidenceScore': 100.0})
 
-    print 'Total Number of Records Processed' + str(numberRecordsProcessed)
+    print 'Total Number of Records Processed:' + str(numberRecordsProcessed)
     return count
